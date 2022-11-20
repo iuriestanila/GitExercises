@@ -6,6 +6,7 @@ public class Philosophers {
         String thinker = "Sartre";
         String thinker2 = "";
         String thinker3 = "";
+        System.out.println("rationalism");
 
     }
 }
